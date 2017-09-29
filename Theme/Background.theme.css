@@ -5,7 +5,7 @@
 /* Find an image which is a suitable size for the background. Once you have the picture, upload it to imgur.com. Once it has procecced right click the image and click open in new tab. Go to that new tab and select the URL. 
 It will look something simmilar to "https://i.imgur.com/kZn7d4b.jpg" Put that URL in the place of (YourURLHere) which is located on line "8". (Make sure to put it inside the brackets)*/
 .app {
-    background-image: url(https://i.imgur.com/kZn7d4b.gif) !Important; 
+    background-image: url(YourURLHere) !Important; 
     background-size:cover !important;
 }
 
