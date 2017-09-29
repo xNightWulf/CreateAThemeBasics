@@ -1,0 +1,59 @@
+//META{"name":"CreateYourOwnTheme","description":"Create_Your_Own_Theme-ChannelList","author":"xNightWulf","version":"1.0"}*//{}
+
+
+/*Use the website "http://htmlcolorcodes.com/" to find the RGB values for the colors you want, The A (seen below) at the end is the opacity, rated 0 (transparent) to 1 (Solid)*/
+
+/*ChannelList*/
+.nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
+    color: rgba(0, 0, 0, 1); /*This changes the color of none selected, none hovered channels*/	
+}
+.nameSelectedText-32NDX5, .nameSelectedVoice-XpjYTw {
+    color: rgba(0, 0, 0, 1); /*This changes the color of selected channels*/
+}
+.nameMutedText-1YDcP-, .nameMutedVoice-26k4cP {
+	color:rgba(0, 0, 0, 1); /*This changes the color of muted channels*/
+}
+.nameHoveredText-2FFqiz {
+    color: rgba(0, 0, 0, 1); /*This changes the color of hovered text channels*/
+}
+.nameHoveredVoice-TIoHRJ {
+    color: rgba(0, 0, 0, 1); /*This changes the color of hovered voice channels*/
+}
+.nameLockedText-2fGz07 {
+    color: rgba(0, 0, 0, 1); /*This changes the color of locked text channels*/
+}
+.nameLockedVoice-wNOMNa {
+    color: rgba(0, 0, 0, 1); /*This changes the color of locked voice channels*/
+}
+
+
+/*Catagories*/
+.nameDefault-Lnjrwm {
+    color: rgba(0, 0, 0, 1); /*This changes the color of channel catagories*/
+}
+.nameCollapsed-3_ChMu {
+    color: rgba(0, 0, 0, 1); /*This changes the color of collapsed catagories*/
+}
+.iconDefault-xzclSQ {
+    color: rgba(0, 0, 0, 1); /*This changes the color of the arrow on catagories*/
+}
+.iconCollapsed-1INdMX {
+    color: rgba(0, 0, 0, 1); /*This changes the color of the arrow on collapsed catagories*/
+}
+.iconMuted-Hb4ttQ {
+    color: rgba(0, 0, 0, 1); /*This changes the color of the arrow on muted catagories*/
+}
+ .nameMuted-1n0LSj {
+    color: rgba(0, 0, 0, 1); /*This changes the color of  muted catagories*/
+}
+
+
+/*Catagory backgrounds*/
+.nameDefault-Lnjrwm {
+    background-color: rgba(0, 0, 0, 1); /*This changes the color of the background of channel catagories*/
+    border-radius: 0px /*higher this number to round the edges of the background*/
+	}
+.nameCollapsed-3_ChMu {
+    background-color: rgba(0, 0, 0, 1); /*This changes the color of the background of collapsed catagories*/
+	border-radius: 0px /*higher this number to round the edges of the background*/
+}
