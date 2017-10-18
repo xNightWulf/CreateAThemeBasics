@@ -1,5 +1,8 @@
 //META{"name":"CreateYourOwnThemeBackground","description":"Create_Your_Own_Theme-Background","author":"xNightWulf","version":"1.0"}*//{}
 
+.container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
+    background-color: transparent !important;
+}
 /* Background */
 
 /* Find an image which is a suitable size for the background. Once you have the picture, upload it to imgur.com. Once it has procecced right click the image and click open in new tab. Go to that new tab and select the URL. 
