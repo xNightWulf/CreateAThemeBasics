@@ -1,5 +1,8 @@
 //META{"name":"CreateYourOwnThemeUserList","description":"Create_Your_Own_Theme-Userlist","author":"xNightWulf","version":"1.0"}*//{}
 
+.container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
+    background-color: transparent !important;
+}
 /* Background */
 
 .theme-dark .channel-members {
