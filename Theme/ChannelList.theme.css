@@ -1,5 +1,8 @@
 //META{"name":"CreateYourOwnTheme","description":"Create_Your_Own_Theme-ChannelList","author":"xNightWulf","version":"1.0"}*//{}
 
+.container-2OU7Cz, .theme-dark .title-qAcLxz, .theme-dark .chat form, .channels-3g2vYe   {
+    background-color: transparent !important;
+}
 
 /*Use the website "http://htmlcolorcodes.com/" to find the RGB values for the colors you want, The A (seen below) at the end is the opacity, rated 0 (transparent) to 1 (Solid)*/
 
